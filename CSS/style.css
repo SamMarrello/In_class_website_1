@@ -19,6 +19,10 @@ p {
     font-size: 15px;
 }
 
+.question {
+    font-weight: bold;
+}
+
 footer {
     color: darkslategray;
     font-size: 10px;
