@@ -91,6 +91,10 @@ table {
     font-weight: bold;
 }
 
+.pictures {
+    text-align: center;
+}
+
 :link {
     color:black;
 }
